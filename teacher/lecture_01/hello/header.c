@@ -1,0 +1,1 @@
+int global1 = 888;
