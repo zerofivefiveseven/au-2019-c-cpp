@@ -1,3 +1,3 @@
 ﻿  HW.c
-C:\Users\svyat\Desktop\С++ ДЗ\HW\HomeWork 21.09.2019\HW.c(5,17): warning C4305:  инициализация: усечение из "double" в "float"
-  HomeWork 21.09.2019.vcxproj -> C:\Users\svyat\Desktop\С++ ДЗ\HW\Debug\HomeWork 21.09.2019.exe
+C:\Users\svyat\Desktop\10_Kayranov_Svyatoslav\01\HW\HomeWork 21.09.2019\HW.c(5,23): warning C4305:  инициализация: усечение из "double" в "float"
+  HomeWork 21.09.2019.vcxproj -> C:\Users\svyat\Desktop\10_Kayranov_Svyatoslav\01\HW\Debug\HomeWork 21.09.2019.exe

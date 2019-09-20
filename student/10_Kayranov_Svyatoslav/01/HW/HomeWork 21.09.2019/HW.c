@@ -2,8 +2,8 @@
 
 char c = 'a';
 int i = 123456;
-float f = 3.1415;
-double d = 3.1415;
+float f = 3.1415926535;
+double d = 3.1415926535;
 int main()
 {
 
